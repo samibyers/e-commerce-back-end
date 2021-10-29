@@ -1,6 +1,6 @@
  # E-Commerce-Back-End
   ## Description 
-  This is a description.
+  This application is the back-end for an e-commerce website. It uses express and sequelize to interact with a MySQL database. 
   ## Table of Contents 
   * [Deployed Application](#deployed-application)
   * [Installation](#installation)
@@ -10,9 +10,9 @@
   * [License](#license)
   * [Questions](#questions)
   ## Deployed Application
-  This application is deployed on Heroku at: 
+  This application is deployed on Heroku at: https://vast-dawn-97075.herokuapp.com/
   ## Installation 
-  In order for the application to run, the following must be installed: Node.js, MySQL, Sequelize, Express
+  In order for the application to run, the following must be installed: Node.js, MySQL, Sequelize, Express, Dotenv 
   ## Usage 
   You can use this application to get, post, and delete data from a MySQL database.
   ## Contributing 
